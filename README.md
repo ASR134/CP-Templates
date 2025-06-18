@@ -6,4 +6,8 @@ CP important code snippets for fast copy-paste during contests.
 -> Stacks        :
 -> Math         
 aman
+<<<<<<< Updated upstream
 singh rawat
+=======
+hloo
+>>>>>>> Stashed changes
