@@ -6,3 +6,4 @@ CP important code snippets for fast copy-paste during contests.
 -> Stacks        :
 -> Math         
 aman
+singh rawat
