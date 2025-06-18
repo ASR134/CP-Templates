@@ -4,3 +4,4 @@ CP important code snippets for fast copy-paste during contests.
 -> Linked List   : SLL, DLL
 -> Array         : Binary Search
 -> Stacks        :
+-> Math          :
